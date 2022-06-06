@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+
+.ff_oleo {
+    font-family: 'Oleo Script', cursive;
+    font-weight: 400;
+}
+
+.ff_gortesk {
+    font-family: 'Space Grotesk',
+        sans-serif;
+    font-weight: 700;
+}
+
+.ff_gortesk {
+    font-family: 'Space Grotesk',
+        sans-serif;
+    font-weight: 600;
+}
+
+.ff_gortesk {
+    font-family: 'Space Grotesk',
+        sans-serif;
+    font-weight: 500;
+}
+
+.ff_gortesk {
+    font-family: 'Space Grotesk',
+        sans-serif;
+    font-weight: 400;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box !important;
+    list-style-type: none !important;
+    text-decoration: none !important;
+    scroll-behavior: smooth !important;
+}
+
+.fs_1 {
+    font-size: var(--fs-1);
+}
+
+.fs_2 {
+    font-size: var(--fs-2);
+}
+
+.fs_3 {
+    font-size: var(--fs-3);
+}
+
+.fs_4 {
+    font-size: var(--fs-4);
+}
+
+.fs_5 {
+    font-size: var(--fs-5);
+}
+
+.fs_6 {
+    font-size: var(--fs-6);
+}
+
+.fs_7 {
+    font-size: var(--fs-7);
+}
+
+.fs_8 {
+    font-size: var(--fs-8);
+}
+
+.fs_9 {
+    font-size: var(--fs-9);
+}
+
+.fw_1 {
+    font-weight: var(--fw-1);
+}
+
+.fw_2 {
+    font-weight: var(--fw-2);
+}
+
+.fw_3 {
+    font-weight: var(--fw-3);
+}
+
+.fw_4 {
+    font-weight: var(--fw-4);
+}
+
+.text_white {
+    color: var(--text-white);
+}
+
+.text_black {
+    color: var(--text-black);
+}
+
+.text_lightblack {
+    color: var(--text-lightblack);
+}
+
+.text_blue {
+    color: var(--text-blue);
+}
+
+.bg_white {
+    background-color: var(--bg-white);
+}
+
+.bg_blue {
+    background-color: var(--bg-blue);
+}
+
+.bg_darkblue {
+    background-color: var(--bg-darkblue);
+}
